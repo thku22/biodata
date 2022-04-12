@@ -1,5 +1,7 @@
 # biodata 
-Ini adalan tampilan awal diaplikasi data profile atau bisa di sebut juga biodata
+Ini adalan tampilan awal diaplikasi data profile atau bisa di sebut juga biodata..
+
+
 Kemudian tombol yang ada di sebelah edit yang hapus berfungsi untuk menghapus data apabila sudah tidak di gunakan.
 ![tampildatalita](https://user-images.githubusercontent.com/82192226/162866038-d2cd5f83-d699-48a0-88c9-dc0a22416a58.png)
 Ketika kita mengklik tombil tambah data  yang ada di atas maka akan muncul form tambah data apabila ada yang mau ngisi biodata tersebut.
